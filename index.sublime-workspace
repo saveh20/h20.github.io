@@ -1,0 +1,251 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"news",
+				"news"
+			],
+			[
+				"about",
+				"about"
+			],
+			[
+				"pa",
+				"para-agile"
+			],
+			[
+				"fon",
+				"font"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"ro",
+				"Roboto"
+			],
+			[
+				"al",
+				"vertical-align"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Workspace/html5up-forty/index.html",
+		"/C/Workspace/Advanced Medical Technologies/amt/css/style.css",
+		"/C/Workspace/Advanced Medical Technologies/html5up/about.html",
+		"/C/Workspace/Advanced Medical Technologies/html5up/contact.html",
+		"/C/Workspace/Advanced Medical Technologies/html5up/career.html",
+		"/C/Workspace/Advanced Medical Technologies/html5up/assets/css/main.css",
+		"/C/Workspace/Advanced Medical Technologies/html5up/news.html",
+		"/C/Workspace/Advanced Medical Technologies/html5up/index.html",
+		"/C/Users/lenovo/Downloads/html5up-alpha/index.html",
+		"/C/Workspace/Advanced Medical Technologies/amt/index.html",
+		"/C/Workspace/edualchem/DC1/developmentcycle1/Game design document template",
+		"/C/Workspace/Advanced Medical Technologies/web/index.html",
+		"/C/Users/lenovo/Downloads/hllowo.cpp",
+		"/C/Users/lenovo/Downloads/5 Unicode Fonts.rar",
+		"/C/Users/lenovo/Downloads/alchem.in/web/index.html",
+		"/D/Heroes_Website/css/agency.css",
+		"/C/Users/lenovo/Documents/Module 4",
+		"/C/Users/lenovo/Documents/Module 3",
+		"/C/Users/lenovo/Documents/Module 2",
+		"/C/Users/lenovo/Documents/Module 1",
+		"/D/Heroes_Website/index.html",
+		"/D/Heroes_Website/vendor/bootstrap/css/bootstrap.min.css",
+		"/C/heroes_beta/index.html",
+		"/C/Users/lenovo/Desktop/startbootstrap-the-big-picture-gh-pages/css/the-big-picture.css",
+		"/C/Users/lenovo/Desktop/startbootstrap-the-big-picture-gh-pages/css/bootstrap.css",
+		"/C/Users/lenovo/Desktop/startbootstrap-the-big-picture-gh-pages/index.html",
+		"/C/Users/lenovo/Desktop/startbootstrap-the-big-picture-gh-pages/css/bootstrap.min.css",
+		"/C/Users/lenovo/Desktop/startbootstrap-the-big-picture-gh-pages/css/bg.png"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"banner 2",
+			"banner2",
+			"banner",
+			"#e89980",
+			"top-nav",
+			"valmeek",
+			"chrome",
+			"font",
+			"contact",
+			"Roboto",
+			"section-heading",
+			"container",
+			"contact",
+			"background-image",
+			"width",
+			".col-md-6",
+			"form-group",
+			"h1",
+			"ol-md-6 col-sm-12",
+			"element.style",
+			"h1",
+			".h1",
+			"margin-top"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
